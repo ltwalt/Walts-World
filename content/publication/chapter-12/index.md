@@ -3,9 +3,9 @@ title: "Chapter 12. Why Won’t They Use Our Model?"
 authors:
 - Walt DeGrange
 - Wilson Price
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# author_notes:
+# - "Equal contribution"
+# - "Equal contribution"
 date: "2020-03-09T00:00:00Z"
 doi: ""
 
@@ -28,12 +28,12 @@ abstract: Operations research (OR) is a core discipline in military and defense 
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Analytics Implementation
+- Analytics, Implementation
 featured: true
 
 # links:
 # - name: ""
-#   url: ""
+#   url: "https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339"
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -46,7 +46,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Amazon**](https://images-na.ssl-images-amazon.com/images/I/41iHE97Ys+L._SY344_BO1,204,203,200_.jpg)'
+  caption: 
   focal_point: ""
   preview_only: false
 
@@ -69,8 +69,8 @@ projects: []
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /alert %}}
 
-{{% alert note %}}
-Click the *Slides* button above to demo Academic's Markdown slides feature.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Slides* button above to demo Academic's Markdown slides feature.
+# {{% /alert %}}
 
 # Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
