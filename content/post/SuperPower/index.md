@@ -3,7 +3,7 @@ title: What is your analytics super power?
 subtitle: Learn how to discover your analytics super power
 summary: Analytics is wonderful since it can be applied to anything that has data. Everyone has interests that can be combined with analytics in unique ways to make them the world's leading analytics expert in that specific interest area.
 authors:
-- admin
+- Walt
 tags: [analytics, interest]
 categories: []
 date: "2020-09-17T00:00:00Z"
