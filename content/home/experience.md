@@ -18,18 +18,19 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Director of Analytics Capabilities"
+  title = "Director of Analytics Capabilities/Principal Operations Research Analyst"
   company = "CANA Advisors"
   company_url = ""
   location = "Virtual"
-  date_start = "2018-07-01"
+  date_start = "2014-08-04"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Talent Acquisition
+  * Training
+  * Software Research
+  * Implementation of Analytics
   """
 
 [[experience]]
@@ -39,7 +40,7 @@ date_format = "Jan 2006"
   location = "Online"
   date_start = "2014-10-01"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Teaches several courses including Organizing for Change and Cost Estimation Models for the online Master of Science in Operations Management (MSOM) program."""
   
   [[experience]]
   title = "Executive Advisor"
@@ -48,6 +49,7 @@ date_format = "Jan 2006"
   location = "Raleigh, NC"
   date_start = "2015-08-15"
   date_end = ""
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  description = """Mentors, coaches and advises graduate student practicum teams taking the MBA Capstone Practicum
+Course required for a supply chain concentration."""
 
 +++

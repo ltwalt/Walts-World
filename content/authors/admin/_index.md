@@ -29,6 +29,7 @@ interests:
 - Optimization
 - Simulation
 - Machine Learning
+- Analytics Change Leadership
 
 education:
   courses:
