@@ -28,12 +28,13 @@ abstract: Operations research (OR) is a core discipline in military and defense 
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Analytics Implementation
+- Analytics 
+- Implementation
 featured: true
 
 # links:
 # - name: ""
-#   url: "https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339"
+url: "https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339"
 url_pdf: 
 url_code: ''
 url_dataset: ''
@@ -64,13 +65,3 @@ projects: []
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
