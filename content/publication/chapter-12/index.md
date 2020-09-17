@@ -32,17 +32,17 @@ tags:
 - Implementation
 featured: true
 
-links:
-- name: Custom Link
-url: https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
-url_pdf: ''
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# links:
+# - name: Custom Link
+# url: https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
+# url_pdf: ''
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
