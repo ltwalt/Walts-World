@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+name: Walt DeGrange
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,34 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CANA Advisors Director of Analytics Capabilities
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: CANA Advisors
+  url: "https://www.canallc.com/"
+- name: NC State Poole School of Managment
+  url: "https://scm.ncsu.edu/"
+- name: University of Arkansas
+  url: "https://operations-management.uark.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: An avid analytics professional that enjoys learning, teaching, and using analytical techniques and tools to answer challenging questions.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Operations Research
+- Optimization
+- Simulation
+- Machine Learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MS in Operations Research
+    institution: Naval Postgraduate School
+    year: 2005
+  - course: BE in Electrical Engineering
+    institution: Vanderbilt University
+    year: 1992
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,16 +46,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: mailto:walter.degrange@gmail.com  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ltwalt
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=vfU6Eq8AAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ltwalt
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +72,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Walt DeGrange is the Director of Analytics Capabilities for CANA Advisors. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Practicum Advisor at the NC State University Poole School of Management, and the Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Navy, Marine Corps, St Louis Blues (NHL), and Atlanta Blaze Major League Lacrosse (MLL) team. Walt has a Bachelors in Electrical Engineering from Vanderbilt University and a Masters in Operations Research from the Naval Postgraduate School.
