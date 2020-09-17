@@ -33,9 +33,9 @@ tags:
 featured: true
 
 links:
-- name: ""
-url: "https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339"
-url_pdf: 
+- name: Custom Link
+url: https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
