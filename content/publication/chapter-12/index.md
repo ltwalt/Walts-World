@@ -25,10 +25,10 @@ publication_short: ""
 abstract: Operations research (OR) is a core discipline in military and defense management. Coming to the forefront initially during World War II, OR provided critical contributions to logistics, supply chains, and strategic simulation, while enabling superior decision making for Allied forces. OR has grown to include analytics and many applications, including artificial intelligence, cybersecurity, and big data, and is the cornerstone of management science in manufacturing, marketing, telecommunications, and many other fields.  The Handbook of Military and Defense Operations Research presents the voices leading OR and analytics to new heights in security through research, practical applications, case studies, and lessons learned in the field.  Features    Applies the experiences of educators and practitioners working in the field    Employs the latest technology developments into case studies and applications    Identifies best practices unique to the military, security, and national defense problem space    Highlights similarities and dichotomies between analyses and trends that are unique to military, security, and defense problems
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Analytics, Implementation
+- Analytics Implementation
 featured: true
 
 # links:
@@ -65,9 +65,9 @@ projects: []
 # slides: example
 ---
 
-{{% alert note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /alert %}}
+# {{% alert note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+# {{% /alert %}}
 
 # {{% alert note %}}
 # Click the *Slides* button above to demo Academic's Markdown slides feature.
