@@ -30,7 +30,7 @@ abstract: Operations research (OR) is a core discipline in military and defense 
 tags:
 - Analytics 
 - Implementation
-featured: true
+featured: false
 
 # links:
 # - name: Custom Link
