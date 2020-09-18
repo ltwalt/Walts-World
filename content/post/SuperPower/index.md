@@ -44,7 +44,6 @@ The last step is the magical step that will reinforce and allow your research to
 
 For extra credit you can list this project on your CV or LinkIn page with a link to the Git Repo and invite others to participate. Collaboting through your work will create life long connects that can really help your career in analytics. 
 
-Make change to blog post.
 
 
 
