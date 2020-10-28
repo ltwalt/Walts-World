@@ -6,8 +6,8 @@ authors:
 - Walt
 tags: [analytics, teaching, complex concepts]
 categories: []
-date: "2020-09-17T00:00:00Z"
-lastMod: "2020-09-17T18:00:00Z"
+date: "2020-10-28T00:00:00Z"
+lastMod: "2020-10-28T18:00:00Z"
 featured: true
 draft: false
 
