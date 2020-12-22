@@ -6,8 +6,8 @@ authors:
 - Walt
 tags: [analytics, sports, MSOM]
 categories: []
-date: "2020-11-11T12:00:00S"
-lastMod: "2020-11-11T12:00:00S"
+date: "2020-11-11T12:00:00"
+lastMod: "2020-12-22T12:00:00"
 featured: true
 draft: false
 
