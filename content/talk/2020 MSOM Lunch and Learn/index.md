@@ -1,16 +1,29 @@
 ---
-title: 2020 University of Arkansas MSOM Lunch and Learn - Sports Analytics: Putting the Fun Back Into Analytics
+title: Every one has an analytics superpower. What is yours?
+subtitle: Learn how to discover your analytics superpower
+summary: Analytics is wonderful since it can be applied to anything that has data. Everyone has interests that can be combined with analytics in unique ways to make them the world's leading analytics expert in that specific interest area.
+authors:
+- Walt
+tags: [analytics, interest]
+categories: []
+date: "2020-12-22T00:00:00Z"
+lastMod: "2020-12-22T18:00:00Z"
+featured: true
+draft: false
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 2
-
-# Optional header image (relative to `static/media/` folder).
-header:
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
   caption: ""
-  image: ""
+  focal_point: ""
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references 
+#   `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 ---
 
 With the recent success of sports teams heavily using analytics (Dodgers, Patriots, Capitals, Warriors, Leicester City F.C.), does this mean that analytics has gained a foothold in the sports world? I use a k-means clustering model to determine if performance since 2015 in the four major US sports can support this question. And is there a career path that a high school student can use to become a sports analytics professional? This presentation attempts to answer that question by exploring all the areas of the application of analytics in sports. The final point the brief makes is that by using sports data to teach k-means clustering, students are more interested in learning advanced analytical concepts.
