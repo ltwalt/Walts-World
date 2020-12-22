@@ -1,7 +1,7 @@
 ---
 title: Sports Analytics: Putting the Fun Back Into Analytics
 subtitle: November 2020 University of Arkansas - MSOM Lunch and Learn
-summary: 
+summary: This presentation attempts to answer that question by exploring all the areas of the application of analytics in sports. The final point the brief makes is that by using sports data to teach k-means clustering, students are more interested in learning advanced analytical concepts. 
 authors:
 - Walt
 tags: [analytics, interest]
