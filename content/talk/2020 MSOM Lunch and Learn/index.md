@@ -1,7 +1,7 @@
 ---
-title: Every one has an analytics superpower. What is yours?
-subtitle: Learn how to discover your analytics superpower
-summary: Analytics is wonderful since it can be applied to anything that has data. Everyone has interests that can be combined with analytics in unique ways to make them the world's leading analytics expert in that specific interest area.
+title: Sports Analytics - Putting the Fun Back Into Analytics
+subtitle: 2020 November University of Arkansas - MSOM Lunch and Learn 
+summary: This presentation attempts to answer that question by exploring all the areas of the application of analytics in sports. The final point the brief makes is that by using sports data to teach k-means clustering, students are more interested in learning advanced analytical concepts.
 authors:
 - Walt
 tags: [analytics, interest]
