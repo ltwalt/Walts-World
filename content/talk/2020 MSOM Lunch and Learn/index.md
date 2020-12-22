@@ -7,7 +7,7 @@ authors:
 tags: [analytics, sports, MSOM]
 categories: []
 date: "2020-11-11T12:00:00S"
-lastMod: "2020-12-22T18:00:00Z"
+lastMod: "2020-11-11T12:00:00S"
 featured: true
 draft: false
 
