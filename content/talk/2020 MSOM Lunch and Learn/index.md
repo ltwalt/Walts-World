@@ -4,9 +4,9 @@ subtitle: 2020 November University of Arkansas - MSOM Lunch and Learn
 summary: This presentation attempts to answer that question by exploring all the areas of the application of analytics in sports. The final point the brief makes is that by using sports data to teach k-means clustering, students are more interested in learning advanced analytical concepts.
 authors:
 - Walt
-tags: [analytics, interest]
+tags: [analytics, sports, MSOM]
 categories: []
-date: "2020-12-22T00:00:00Z"
+date: "2020-11-11T00:00:00Z"
 lastMod: "2020-12-22T18:00:00Z"
 featured: true
 draft: false
