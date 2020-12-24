@@ -5,7 +5,7 @@ summary: In this episode we will explore three different applications of O.R. an
 authors:
 - Walt
 tags: [analytics, sports, INFORMS]
-categories: []
+categories: [podcast]
 date: "2019-03-05T12:00:00"
 lastMod: "2019-03-05T12:00:00"
 featured: true

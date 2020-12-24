@@ -5,7 +5,7 @@ summary: This presentation attempts to answer that question by exploring all the
 authors:
 - Walt
 tags: [analytics, sports, MSOM]
-categories: []
+categories: [presentation]
 date: "2020-11-11T12:00:00"
 lastMod: "2020-12-22T12:00:00"
 featured: true
