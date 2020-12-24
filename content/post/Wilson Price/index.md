@@ -36,7 +36,7 @@ One of my main research projects while at NPS was the Replenishment at Sea Plann
 
 The original RASP paper was rejected as being too non-analytical. Eventually, the implementation story was cut, and the RASP paper was published in May 2018. That left the implementation story still to be told. Fortunately, I was invited to participate in the **Handbook of Military and Defense Operations Research** by Dr. Natalie Scala. I immediately connected with Wilson to tell him I had found the perfect place for our story. He agreed, and we began work on what would become *Chapter 12 - Why Won't They Use Our Model?*.
 
-I will always cherish my lunches with Wilson. I will always be thankful for his friendship and collaboration in writing about the importance of using analytics to create change instead of just developing elegant models for papers.
+I will always cherish my lunches with Wilson. I am thankful for his friendship and collaboration in writing about the importance of using analytics to create change instead of just developing elegant models for papers. Hopefully, in the future, I can carry on the torch of spreading this message.
 
 Rest in peace, Wilson. 
 
