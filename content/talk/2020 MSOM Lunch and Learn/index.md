@@ -26,6 +26,6 @@ image:
 projects: []
 ---
 
-With the recent success of sports teams heavily using analytics (Dodgers, Patriots, Capitals, Warriors, Leicester City F.C.), does this mean that analytics has gained a foothold in the sports world? I use a k-means clustering model to determine if performance since 2015 in the four major US sports can support this question. And is there a career path that a high school student can use to become a sports analytics professional? This presentation attempts to answer that question by exploring all the areas of the application of analytics in sports. The final point the brief makes is that by using sports data to teach k-means clustering, students are more interested in learning advanced analytical concepts.
+In November 2020, I got the chance to share my sports analytics research during the Master of Science in Operations Managment's Lunch and Learn series. This hobby project started in 2015 when I wanted to learn more about R, sports analytics, and machine learning. The data consists of the ESPN Great Analytics Rating in 2015 http://www.espn.com/espn/feature/story/_/id/12331388/the-great-analytics-rankings, Spotrac.com salary information, and the results for each MLB, NFL, NBA, and NHL team from 2014-2019. Everyone is invited to participate via my GitHub repo https://github.com/ltwalt/espnsports. All the data and R code is available for collaboration.
 
 https://scholarworks.uark.edu/opmapub/9/
