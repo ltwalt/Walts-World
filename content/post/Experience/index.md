@@ -9,7 +9,7 @@ categories: []
 date: "2020-10-31T00:00:00Z"
 lastMod: "2020-10-31T18:00:00Z"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -25,6 +25,8 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+
+![](./depositphotos_95532628-stock-photo-with-time-comes-experience-quote.jpg)
 
 Experience is something this is obtained over time. This may be through observation, learning, or the school of hard knocks. There are two different types of experience when applied to analytics. First, there is the experience with the analytical solution. This could be obtained through education or prior use. Typically, analytics professionals have a main focus area where they have applied certain tools such as optimization, simulation, or machine learning. 
 
