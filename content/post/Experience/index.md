@@ -1,13 +1,13 @@
 ---
 title: Experience
-subtitle: There is more than one type
+subtitle: Until we can jack in like the Matrix, time is the main driver of experience.
 summary: 
 authors:
 - Walt
-tags: [analytics, interest]
+tags: [experience]
 categories: []
-date: "2020-10-31T00:00:00Z"
-lastMod: "2020-10-31T18:00:00Z"
+date: "2020-12-24T00:00:00Z"
+lastMod: "2020-12-24T00:00:00Z"
 featured: true
 draft: false
 
