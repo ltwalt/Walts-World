@@ -51,12 +51,16 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/ltwalt
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/waltdegrange/
 - icon: google-scholar
-  icon_pack: ai
+  icon_pack: fab
   link: https://scholar.google.com/citations?user=vfU6Eq8AAAAJ&hl=en&oi=sra
 - icon: github
   icon_pack: fab
   link: https://github.com/ltwalt
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -73,4 +77,4 @@ user_groups:
 - Visitors
 ---
 
-Walt DeGrange is the Director of Analytics Capabilities for CANA Advisors. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Navy, Marine Corps, St Louis Blues (NHL), and Atlanta Blaze Major League Lacrosse (MLL) teams.
+Walt DeGrange is the Director of Analytics Capabilities for CANA Advisors. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Department of Defense, Atlanta Blaze Major League Lacrosse (MLL) team, and several commercial organizations. Walt also teaches professional analytics courses for both INFORMS and MORS.

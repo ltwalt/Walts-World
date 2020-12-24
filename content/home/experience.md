@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Director of Analytics Capabilities/Principal Operations Research Analyst"
+  title = "Director of Analytics Capabilities"
   company = "CANA Advisors"
   company_url = ""
   location = "Virtual"
