@@ -26,7 +26,7 @@ image:
 projects: []
 ---
 
-[<img src="hqdefault.jpg">]
+<img src="hqdefault.jpg">
 
 Why are people afraid of math? Can the mear mention of statistics bring gloom over a conference room?
 
