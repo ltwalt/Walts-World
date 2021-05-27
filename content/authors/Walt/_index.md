@@ -22,14 +22,14 @@ organizations:
   url: "https://operations-management.uark.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: An avid analytics professional that enjoys learning, teaching, and using analytical techniques and tools to answer challenging questions.
+bio: An analytics professional that enjoys learning, teaching, and using analytical techniques and tools to answer challenging questions.
 
 interests:
 - Operations Research
 - Optimization
 - Simulation
 - Machine Learning
-- Analytics Change Leadership
+- Deployment of Analytics
 
 education:
   courses:
@@ -77,4 +77,4 @@ email: ""
 # - Visitors
 ---
 
-Walt DeGrange is the Director of Analytics Capabilities for CANA Advisors. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Department of Defense, Atlanta Blaze Major League Lacrosse (MLL) team, and several commercial organizations. Walt also teaches professional analytics courses for both INFORMS and MORS.
+Walt DeGrange is the Director of Analytics Capabilities for CANA Advisors. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Department of Defense, Major League Lacrosse (MLL) team, and several commercial organizations. Walt also teaches professional analytics courses for both INFORMS and MORS.

@@ -21,23 +21,23 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Director of Analytics Capabilities"
   company = "CANA Advisors"
-  company_url = ""
+  company_url = "https://www.canallc.com/"
   location = "Virtual"
   date_start = "2014-08-04"
   date_end = ""
   description = """
   Responsibilities include:
   
-  * Talent Acquisition
-  * Training
-  * Software Research
-  * Implementation of Analytics
+  * Talent acquisition
+  * Development and deployment of analytical solutions
+  * Teaching courses in the applications of analytics applications and data visulization
+
   """
 
 [[experience]]
   title = "Instructor"
   company = "University of Arkansas"
-  company_url = ""
+  company_url = "https://operations-management.uark.edu/"
   location = "Online"
   date_start = "2014-10-01"
   date_end = ""
@@ -46,11 +46,10 @@ date_format = "Jan 2006"
   [[experience]]
   title = "Executive Advisor"
   company = "NC State Poole School of Managment"
-  company_url = ""
+  company_url = "https://scm.ncsu.edu/"
   location = "Raleigh, NC"
   date_start = "2015-08-15"
   date_end = ""
-  description = """Mentors, coaches and advises graduate student practicum teams taking the MBA Capstone Practicum
-Course required for a supply chain concentration."""
+  description = """Mentors, coaches and advises graduate student teams taking the MBA Capstone Practicum Course required for a supply chain concentration."""
 
 +++
