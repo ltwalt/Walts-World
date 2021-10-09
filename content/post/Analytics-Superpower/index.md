@@ -8,7 +8,7 @@ tags: [analytics, interest]
 categories: []
 date: "2020-09-17T00:00:00Z"
 lastMod: "2020-09-17T18:00:00Z"
-featured: true
+featured: false
 draft: false
 
 # Featured image
