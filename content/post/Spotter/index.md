@@ -4,7 +4,7 @@ subtitle: Spotting for Auto Racing
 summary: 
 authors:
 - Walt
-tags: [experience]
+tags: [experience,racing,spotting]
 categories: []
 date: "2021-09-30T00:00:00Z"
 lastMod: "2021-09-30T00:00:00Z"
@@ -14,8 +14,8 @@ draft: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Late Model car that I spotted for in 2018-2019"
+  focal_point: "center"
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
