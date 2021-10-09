@@ -38,14 +38,14 @@ This type of racing has cars racing around a course that is typically a mile or 
 
 ## Oval Racing
 
-{{< figure src="Racing_Spotter_Photos-4.jpg" caption="Late Model car that I spotted for in 2018-2019" numbered="false" >}}
+{{< figure src="SothernNationalSpeedway.jpg" caption="View from spotters stand at Southern National Motorsports Park" numbered="false" >}}
 
 The race course is circular or close to circular in this type of racing. One spotter can see the entire course in this type of racing. In oval racing series, a spotter is mandated due to the number of cars on the track and the additional implications of having to enforce rules. The race official will be in the same location as the spotters and can easily relay the penalty or change in starting position to the spotter and then the spotter and relay that information on to the driver.
 
 ## Where Do Spotters Work
 Usually the spotters on perched on the highest location at the track to get the best view. Sometimes these locations are just the top row of seats on the grandstands. At other tracks, spotters need to climb one or more ladders to reach a roof high above the racetrack. Probably not a good job for people afraid of heights.
 
-{{< figure src="Racing_Spotter_Photos.jpg" caption="This is me on the spotters perch at Wake Country Speedway" numbered="false" >}}
+{{< figure src="Spotter_Stand.jpg" caption="Spotters stand at Southern National Motorsports Park" numbered="false" >}}
 
 ## Special Language
 
