@@ -1,5 +1,5 @@
 ---
-title: What Do I Miss Most
+title: What Do I Miss Most? Spotting
 subtitle: Spotting for Auto Racing
 summary: 
 authors:
@@ -38,10 +38,13 @@ This type of racing has cars racing around a course that is typically a mile or 
 
 ## Oval Racing
 
+{{< figure src="Racing_Spotter_Photos-4.jpg" caption="Late Model car that I spotted for in 2018-2019" numbered="false" >}}
+
 ![Late Model car that I spotted for in 2018-2019.](./Racing_Spotter_Photos-4.jpg)
 
 The race course is circular or close to circular in this type of racing. One spotter can see the entire course in this type of racing. In oval racing series, a spotter is mandated due to the number of cars on the track and the additional implications of having to enforce rules. The race official will be in the same location as the spotters and can easily relay the penalty or change in starting position to the spotter and then the spotter and relay that information on to the driver.
 
+## Where Do Spotters Work
 Usually the spotters on perched on the highest location at the track to get the best view. Sometimes these locations are just the top row of seats on the grandstands. At other tracks, spotters need to climb one or more ladders to reach a roof high above the racetrack. Probably not a good job for people afraid of heights.
 
 ![This is me on the spotters perch at Wake Country Speedway.](./Racing_Spotter_Photos.jpg)
@@ -68,7 +71,7 @@ The next must have piece of equipment is a cell phone with a racing app on it. D
 
 Binoculars are nice to have in case the spotter needs to take a closer look at cars to identify damage or track conditions. Obviously on smaller tracks binoculars are not that important. If the track is a large road course and the spotter location allows for a good sight line, then binoculars are very important. Other equipment such as track maps to reference turn numbers at unfamiliar tracks, water bottle to stay hydrated, and environmental comfort items (hats, jacket, sunglasses, etc.) are useful when required.
 
-Winning!
+## Winning!
 
 My first objective as a spotter is to keep my driver safe. The second objective is provide relevant information at the right time to be competitive. And when all goes well then this means winning. To be a good spotter it takes time and practice. In the end the effort is worth it.
 
