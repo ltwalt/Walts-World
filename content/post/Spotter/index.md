@@ -40,18 +40,16 @@ This type of racing has cars racing around a course that is typically a mile or 
 
 {{< figure src="Racing_Spotter_Photos-4.jpg" caption="Late Model car that I spotted for in 2018-2019" numbered="false" >}}
 
-![Late Model car that I spotted for in 2018-2019.](./Racing_Spotter_Photos-4.jpg)
-
 The race course is circular or close to circular in this type of racing. One spotter can see the entire course in this type of racing. In oval racing series, a spotter is mandated due to the number of cars on the track and the additional implications of having to enforce rules. The race official will be in the same location as the spotters and can easily relay the penalty or change in starting position to the spotter and then the spotter and relay that information on to the driver.
 
 ## Where Do Spotters Work
 Usually the spotters on perched on the highest location at the track to get the best view. Sometimes these locations are just the top row of seats on the grandstands. At other tracks, spotters need to climb one or more ladders to reach a roof high above the racetrack. Probably not a good job for people afraid of heights.
 
-![This is me on the spotters perch at Wake Country Speedway.](./Racing_Spotter_Photos.jpg)
+{{< figure src="Racing_Spotter_Photos.jpg" caption="This is me on the spotters perch at Wake Country Speedway" numbered="false" >}}
 
 ## Special Language
 
-![Duncan Ellis and I getting on the same page for the upcoming race's strategy and objectives.](./Racing_Spotter_Photos-3.jpg)
+{{< figure src="Racing_Spotter_Photos-3.jpg" caption="Duncan Ellis and I getting on the same page for the upcoming race's strategy and objectives" numbered="false" >}}
 
 Since things happen very quickly on track with race cars going at breakneck speeds, communications between the spotter and driver must be concise. A special language is agreed upon for use in certain situations. For example, in oval racing, if the spotter were to say "inside door" then the driver would know that there was a car to their inside and that the front bumper of that car was at their own car's door. After this car is either passed or passes my drivers car then I would say "clear inside". Then the driver would know that lane of the race track is available for use.
 
@@ -75,4 +73,4 @@ Binoculars are nice to have in case the spotter needs to take a closer look at c
 
 My first objective as a spotter is to keep my driver safe. The second objective is provide relevant information at the right time to be competitive. And when all goes well then this means winning. To be a good spotter it takes time and practice. In the end the effort is worth it.
 
-![Duncan Ellis and I after a race win in 2013 at Thunderhill Speedway.](./Racing_Spotter_Photos-2.jpg)
+{{< figure src="Racing_Spotter_Photos-2.jpg" caption="Duncan Ellis and I after a race win in 2013 at Thunderhill Speedway" numbered="false" >}}
