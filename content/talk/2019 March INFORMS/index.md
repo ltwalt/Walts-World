@@ -1,7 +1,7 @@
 ---
 title: March 2019 - Sports Analytics Applications
 subtitle: Podcast Interview - INFORMS Resounding Human
-summary: In this episode we will explore three different applications of O.R. and analytics in sports, from basketball, to baseball, and beyond! Joining me for this episode are Sheldon Jacobson of the University of Illinois to discuss NCAA March Madness basketball brackets, Michael Trick of Carnegie Mellon University to give insight into Major League Baseball game scheduling, and Walt DeGrange of CANA Advisors and past chairman of the INFORMS SpORts Section to discuss current and developing applications of O.R. and analytics in sports.
+summary: In this episode we will explore three different applications of O.R. and analytics in sports, from basketball, to baseball, and beyond! Joining me for this episode are Sheldon Jacobson of the University of Illinois to discuss NCAA March Madness basketball brackets, Michael Trick of Carnegie Mellon University to give insight into Major League Baseball game scheduling, and Walt DeGrange of CANA and past chairman of the INFORMS SpORts Section to discuss current and developing applications of O.R. and analytics in sports.
 authors:
 - Walt
 tags: [analytics, sports, INFORMS]

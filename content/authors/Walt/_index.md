@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: CANA Advisors Director of Analytics Capabilities
+role: CANA Director of Analytics Capabilities
 
 # Organizations/Affiliations
 organizations:
-- name: CANA Advisors
+- name: CANA
   url: "https://www.canallc.com/"
 - name: NC State Poole School of Managment
   url: "https://scm.ncsu.edu/"
@@ -77,4 +77,4 @@ email: ""
 # - Visitors
 ---
 
-Walt DeGrange is the Director of Analytics Capabilities for CANA Advisors. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Department of Defense, Major League Lacrosse (MLL) team, and several commercial organizations. Walt also teaches professional analytics courses for both INFORMS and MORS.
+Walt DeGrange is the Director of Analytics Capabilities for CANA. He recruits, develops, and enables a team of analytics professions to produce high level analytics products across federal and commercial domains including: operations research studies & analysis, analysis of logistics systems, sports analytics, data and information-based decision support solutions, and data quality & analytic assessments. He is also a faculty member at the University of Arkansas in the Operations Management graduate program, an MBA Executive Advisor at the NC State University Poole School of Management, and the Past Chairperson for the INFORMS SpORts Section. His analytics projects include work with the Department of Defense, Major League Lacrosse (MLL) team, and several commercial organizations. Walt also teaches professional analytics courses for both INFORMS and MORS.

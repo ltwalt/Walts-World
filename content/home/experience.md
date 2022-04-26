@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Director of Analytics Capabilities"
-  company = "CANA Advisors"
+  company = "CANA"
   company_url = "https://www.canallc.com/"
   location = "Virtual"
   date_start = "2014-08-04"
