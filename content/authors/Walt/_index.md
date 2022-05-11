@@ -29,7 +29,8 @@ interests:
 - Optimization
 - Simulation
 - Machine Learning
-- Deployment of Analytics
+- Deployment of analytics
+- Teaching analytics
 
 education:
   courses:
