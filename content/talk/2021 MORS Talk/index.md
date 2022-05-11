@@ -4,7 +4,7 @@ subtitle: Podcast Interview - MORS Talk
 summary: Lucia and I get to discuss our upcoming book, the Field Guide to Compelling Analytics.
 authors:
 - Walt
-tags: [analytics, sports, INFORMS]
+tags: [analytics, book, MORS]
 categories: [podcast]
 date: "2021-12-03T12:00:00"
 lastMod: "2021-12-03T12:00:00"
