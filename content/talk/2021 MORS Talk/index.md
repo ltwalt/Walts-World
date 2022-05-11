@@ -6,8 +6,8 @@ authors:
 - Walt
 tags: [analytics, sports, INFORMS]
 categories: [podcast]
-date: "2020-10-15T12:00:00"
-lastMod: "2020-10-15T12:00:00"
+date: "2021-12-03T12:00:00"
+lastMod: "2021-12-03T12:00:00"
 featured: true
 draft: false
 
