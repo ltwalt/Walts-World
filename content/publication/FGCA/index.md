@@ -36,7 +36,7 @@ featured: false
 
 # links:
 # - name: Custom Link
-url: 'http://fieldguidetocompellinganalytics.com'
+# url: 'http://fieldguidetocompellinganalytics.com'
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
