@@ -33,7 +33,7 @@ tags:
 featured: false
 
 # links:
-# - name: Custom Link
+- name: Book Website
 url: http://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
 # url_pdf: ''
 # url_code: ''
