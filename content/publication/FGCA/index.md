@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-03-09T00:00:00Z"
+date: "2022-08-08T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -16,7 +16,7 @@ doi: ""
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["6"]
+publication_types: ["5"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Field Guide to Compelling Analytics*"
@@ -28,13 +28,15 @@ abstract: Field Guide to Compelling Analytics is written for Analytics Professio
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Analytics 
-- Implementation
+- analytics 
+- trust
+- communication
+- experience
 featured: false
 
 # links:
 # - name: Custom Link
-# url: https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
+url: https://fieldguidetocompellinganalytics.com
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
