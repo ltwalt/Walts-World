@@ -4,7 +4,7 @@ subtitle: Swift Trust and Time Based Trust
 summary: 
 authors:
 - Walt
-tags: [experience]
+tags: [trust]
 categories: []
 date: "2021-05-26T00:00:00Z"
 lastMod: "2021-05-26T00:00:00Z"

@@ -4,7 +4,7 @@ subtitle: The most important skill for analytics professionals
 summary: 
 authors:
 - Walt
-tags: [analytics, interest]
+tags: [analytics]
 categories: []
 date: "2020-09-17T00:00:00Z"
 lastMod: "2020-09-17T18:00:00Z"

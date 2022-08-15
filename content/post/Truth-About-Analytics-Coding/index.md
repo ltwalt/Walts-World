@@ -4,7 +4,7 @@ subtitle: What you really need to know to become an Analytics Professional
 summary: 
 authors:
 - Walt
-tags: [analytics, interest]
+tags: [analytics, coding]
 categories: []
 date: "2020-09-17T00:00:00Z"
 lastMod: "2020-09-17T18:00:00Z"

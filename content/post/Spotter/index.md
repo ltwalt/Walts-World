@@ -4,7 +4,7 @@ subtitle: Spotting for Auto Racing
 summary: 
 authors:
 - Walt
-tags: [experience,racing,spotting]
+tags: [racing,spotting]
 categories: []
 date: "2021-09-30T00:00:00Z"
 lastMod: "2021-09-30T00:00:00Z"
