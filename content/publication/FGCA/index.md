@@ -35,7 +35,7 @@ tags:
 featured: false
 
 links:
-- name: Book Website
+- name: Website
 url: https://fieldguidetocompellinganalytics.com
 # url_pdf: ''
 # url_code: ''
