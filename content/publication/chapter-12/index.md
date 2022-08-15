@@ -32,9 +32,9 @@ tags:
 - implementation
 featured: false
 
-links:
-- name: Website
-url: https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
+# links:
+# - name: Website
+# url: https://www.amazon.com/Handbook-Military-Defense-Operations-Research/dp/1138607339
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''

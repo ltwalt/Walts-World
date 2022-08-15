@@ -28,15 +28,15 @@ abstract: Field Guide to Compelling Analytics is written for Analytics Professio
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- analytics 
+- analytics
 - trust
 - communication
 - experience
 featured: false
 
-links:
-- name: Website
-url: https://fieldguidetocompellinganalytics.com
+# links:
+# - name: Website
+# url: https://fieldguidetocompellinganalytics.com
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
