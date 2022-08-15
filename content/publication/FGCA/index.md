@@ -34,9 +34,9 @@ tags:
 - experience
 featured: false
 
-# links:
-# - name: Custom Link
-# url: 'http://fieldguidetocompellinganalytics.com'
+links:
+- name: Book Website
+url: https://fieldguidetocompellinganalytics.com
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
