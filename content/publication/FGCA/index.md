@@ -24,6 +24,7 @@ publication_short: ""
 
 abstract: Field Guide to Compelling Analytics is written for Analytics Professionals (APs) who want to increase their probability of success in implementing analytical solutions. In the past, soft skills such as presentation and persuasive writing techniques have been the extent of teaching junior APs how to effectively communicate the value of analytical products. However, there are other aspects to success such as trust and experience that may play a more important role in convincing fellow APs, clients, advisors, and leadership groups that their analytic solutions will work.
 
+
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
