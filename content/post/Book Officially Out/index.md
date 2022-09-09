@@ -5,7 +5,7 @@ summary:
 authors:
   - Walt
 tags: [analytics, book]
-categories: [podcast]
+categories: [book]
 date: "2022-09-08T12:00:00"
 lastMod: "2022-09-08T12:00:00"
 featured: true
