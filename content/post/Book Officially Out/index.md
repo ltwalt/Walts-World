@@ -3,7 +3,7 @@ title: "Book Officially Out Everywhere!"
 subtitle: 
 summary: 
 authors:
-  - admin
+  - Walt
 tags: [analytics, book]
 categories: [podcast]
 date: "2022-09-08T12:00:00"
