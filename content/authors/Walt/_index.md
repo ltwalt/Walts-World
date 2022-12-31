@@ -63,7 +63,7 @@ social:
   link: https://github.com/ltwalt
 - icon: mastodon
   icon_pack: fas
-  link: @ltwalt@vivaldi.net
+  link: https://mastodon.social/@ltwalt@vivaldi.net
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
