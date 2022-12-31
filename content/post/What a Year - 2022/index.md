@@ -34,7 +34,7 @@ First and foremost, my long-awaited first book was published in September. Lucia
 
 ![](https://csb.uncw.edu/msba/images/tablet-charts-1000x332.jpg)
 
-The second cool thing that happened to me in 2022 is that I was invited to serve on the board of advisors for the [UNCW Cameron School of Business MBA in analytics program](https://csb.uncw.edu/msba/index.html). Hopefully, the program will have the website up for the board early in 2023. Until then, you'll have to trust me.
+The second cool thing that happened to me in 2022 is that I was invited to serve on the board of advisors for the [UNCW Cameron School of Business MBA in analytics program](https://csb.uncw.edu/msba/index.html). Hopefully, the program will have the website up for the board early in 2023. Until then, you'll just have to trust me.
 
 The board's role is to make recommendations to the academic program on how this is to stay relevant in today's business analytics environment. Also, how to differentiate UNC W's program from the many online MBA analytics programs that seem to be popping up everywhere.
 I look forward to learning more about the program and helping them out in 2023.
