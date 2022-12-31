@@ -28,13 +28,19 @@ projects: []
 
 What a year, indeed! In Walt's World, these are the three things that really stood out.
 
-First and foremost, my long-awaited first book was published in September. Lucia and I made it through many late nights (and early mornings for her) to put the final touches on the [*Field Guide to Compelling Analytics*](https://fieldguidetocompellinganalytics.com). We are very proud of the book and hope it helps new and seasoned analytics professionals create more persuasive analytics.
+![](https://fieldguidetocompellinganalytics.com/media/welcome_huc8928042223a9eb6b2f870244a0a04b0_16666_1200x0_resize_q75_lanczos.jpg)
 
-The second cool thing that happened to me in 2022 is that I was invited to be on the board of advisors for the UNC W Cameron school of business MBA in analytics program. Hopefully, the program will have the website up for the board early in 2023. Until then, you'll have to trust me.
+First and foremost, my long-awaited first book was published in September. Lucia and I made it through many late nights (and early mornings for her) to put the final touches on the [*Field Guide to Compelling Analytics*](https://fieldguidetocompellinganalytics.com). We are very proud of the book and hope it helps new and seasoned analytics professionals create more persuasive analytics. We will continue to spread the word into the new year every chance we get.
+
+![](https://csb.uncw.edu/msba/images/tablet-charts-1000x332.jpg)
+
+The second cool thing that happened to me in 2022 is that I was invited to serve on the board of advisors for the [UNCW Cameron School of Business MBA in analytics program](https://csb.uncw.edu/msba/index.html). Hopefully, the program will have the website up for the board early in 2023. Until then, you'll have to trust me.
 
 The board's role is to make recommendations to the academic program on how this is to stay relevant in today's business analytics environment. Also, how to differentiate UNC W's program from the many online MBA analytics programs that seem to be popping up everywhere.
 I look forward to learning more about the program and helping them out in 2023.
 
-And last but not least, the return to IRL conferences. I was lucky enough to attend the INFORMS Business Analytics Conference in April, the 90th MORS Symposium in June, the INFORMS Annual Meeting in October, and as a bonus, the MORS Climate Change Special Meeting in December. All those conferences and all I got was a lot of excellent knowledge sharing, the opportunity to brief my book twice, and a cough that lasted 3 weeks. I look forward to more opportunities to meet in person and learn, share, and collaborate at conferences and special meetings in 2023.
+![](https://fieldguidetocompellinganalytics.com/media/welcome_huc8928042223a9eb6b2f870244a0a04b0_16666_1200x0_resize_q75_lanczos.jpg)
+
+And last but not least, the return to IRL conferences. I was lucky enough to attend quite a few including the INFORMS Business Analytics Conference in April, the 90th MORS Symposium in June, the INFORMS Annual Meeting in October, and as a bonus, the MORS Climate Change Special Meeting in December. All those conferences and all I got was a lot of excellent knowledge sharing, the opportunity to brief my book twice, and a cough that lasted 3 weeks. 2023 should provide even more opportunities to meet in person and learn, share, and collaborate.
 
 That was a quick summary of 2022 for me. I hope your 2022 was just as exciting, and here is to an incredible 2023!
