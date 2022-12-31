@@ -62,7 +62,7 @@ social:
   icon_pack: fab
   link: https://github.com/ltwalt
 - icon: mastodon
-  icon_pack: fas
+  icon_pack: fab
   link: https://mastodon.social/@ltwalt@vivaldi.net
 
 # Link to a PDF of your resume/CV from the About widget.
