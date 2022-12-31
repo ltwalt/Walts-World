@@ -26,7 +26,7 @@ image:
 projects: []
 ---
 
-What a year, indeed! In Walt's World, these are the three things that really stood out.
+What a year, indeed! In Walt's World, these were the three things that really stood out.
 
 <img src="https://fieldguidetocompellinganalytics.com/media/welcome_huc8928042223a9eb6b2f870244a0a04b0_16666_1200x0_resize_q75_lanczos.jpg" alt="drawing" width="200"/>
 
