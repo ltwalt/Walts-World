@@ -28,7 +28,7 @@ projects: []
 
 A popular question in 2020 and 2021 (pandemic years) is "What is it you miss the most?". There are obvious answers like traveling internationally or being indoors for large events. Even though most folks that know me would guess that I miss going to conferences in person (and I do), the thing I really miss the most is hanging out at the race track and spotting. 
 
-For those of you not familiar with racing, most car racing series mandate many safety devices for drivers to wear. These devices restrict the driver's ability to look around. Many drivers have mirrors and other devices to help them see blind spots and the space around the car. Spotters help the driver by providing another set of eyes that are outside the car. The spotter is in radio contact with the driver and can convey important information to the driver.
+For those of you not familiar with racing, most car racing series mandate many safety devices for drivers to wear. These devices restrict the driver's ability to look around. Many drivers have mirrors and other devices to help them see blind spots and the space around the car. Also, as one might imagine, driving a high speeds with cars trying to pass you can take up a lot of the driver's attention. Spotters help the driver by providing another set of eyes that are outside the car. The spotter is in radio contact with the driver and can convey important information to the driver.
 
 The two types of racing that I have spotted for are road and oval racing.
 
@@ -43,7 +43,7 @@ This type of racing has cars racing around a course that is typically a mile or 
 The racecourse is circular or close to circular in this type of racing. One spotter can see the entire course in this type of racing. In oval racing series, a spotter is mandated due to the number of cars on the track and the additional implications of having to enforce rules. The race official will be in the same location as the spotters and can easily relay the penalty or change in starting position to the spotter and then the spotter and relay that information on to the driver.
 
 ## Where Do Spotters Work
-Usually, the spotters are perched on the highest location at the track to get the best view. Sometimes these locations are just the top row of seats on the grandstands. At other tracks, spotters need to climb one or more ladders to reach a roof high above the racetrack. Probably not a good job for people afraid of heights.
+Usually, the spotters are perched on the highest location at the track to get the best view. Sometimes these locations are just the top row of seats on the grandstands. At other tracks, spotters need to climb one or more ladders to reach a platform high above the racetrack. Probably not a good job for people afraid of heights.
 
 {{< figure src="Spotter_Stand.jpg" caption="Spotters stand at Southern National Motorsports Park" numbered="false" >}}
 
@@ -51,11 +51,11 @@ Usually, the spotters are perched on the highest location at the track to get th
 
 {{< figure src="Racing_Spotter_Photos-3.jpg" caption="Duncan Ellis and I getting on the same page for the upcoming race's strategy and objectives" numbered="false" >}}
 
-Since things happen very quickly on track with race cars going at breakneck speeds, communications between the spotter and driver must be concise. A special language is agreed upon for use in certain situations. For example, in oval racing, if the spotter were to say "inside door" then the driver would know that there was a car to their inside and that the front bumper of that car was at their own car's door. After this car is either passed or passes my drivers car then I would say "clear inside". Then the driver would know that lane of the race track is available for use.
+Since things happen very quickly on track with race cars going at breakneck speeds, communications between the spotter and driver must be concise. A special language is agreed upon for use in certain situations. For example, in oval racing, if the spotter were to say "inside door" then the driver would know that there was a car to their inside and that the front bumper of that car was at their own car's door. After this car is either passed or passes my driver's car then I would say "clear inside". Then the driver would know that lane of the race track is available for use.
 
 ## Connection to Analytics
 
-The spotter knows a lot of data. Race situation, standings of all cars, how many laps are remaining, what the other cars are doing, weather conditions, and others. All of this data needs to be reduced to relevant information to pass to the driver. The passing of this data needs to be communicated using a special language that is concise. The driver also must be able to provide the spotter with data and any requests for information. Here is an example of how this plays out during a race:
+The spotter knows a lot of data. Race situation, standings of all cars, how many laps are remaining, what the other cars are doing, weather conditions, and others. All of this data needs to be reduced to relevant information to pass to the driver.  The driver also must be able to provide the spotter with data and any requests for information. Here is an example of how this plays out during a race:
 
 There is an accident, and the driver is involved, and the car spins off the track. The driver communicates that the car is not damaged. The spotter communicates there is still plenty of time to make up positions and then tells the driver when there is an opening to safely reenter the track. After the driver is back on track, the driver can communicate any issues with the car. The spotter then starts feeding the driver the time gaps to the cars in front and behind the driver. 
 
