@@ -28,4 +28,6 @@ projects: []
 
 I get to answer questions concerning the role of analytics in the National Football League and how analytics may affect the outcome of the 2023 Super Bowl.
 
+Don't miss this episode of the podcast for an in-depth discussion about analytics and the future of football. We have a special guest, Walt DeGrange, Director of Analytics Capabilities from CANA, who will be exploring the role that analytics is playing in today's game. Plus, we'll discuss Walt's new book -- Field Guide to Compelling Analytics. Join us as we count down to this year's Super Bowl and take a closer look at how analytics is transforming the modern game!
+
 https://resoundinglyhuman.com/episodes/the-countdown-to-the-2023-super-bowl-is-on-lets-take-a-look-at-the-role-of-analytics/?fbclid=IwAR2tSwH7onPkP_kF_I4CgCEdICCltWUZuT3lV3fZwjjqZ5bmLuxlF30xKf8
