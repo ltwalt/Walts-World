@@ -6,8 +6,8 @@ authors:
 - Walt
 tags: [INFORMS, sports, football]
 categories: [podcast]
-date: "2021-12-03T12:00:00"
-lastMod: "2021-12-03T12:00:00"
+date: "2023-2-07T12:00:00"
+lastMod: "2023-2-07T12:00:00"
 featured: true
 draft: false
 
