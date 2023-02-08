@@ -25,12 +25,14 @@ organizations:
 bio: An analytics professional that enjoys learning, teaching, and using analytical techniques and tools to answer challenging questions.
 
 interests:
+- Teaching analytics
+- Sports Analytics
+- eSports
 - Operations Research
 - Optimization
 - Simulation
 - Machine Learning
 - Deployment of analytics
-- Teaching analytics
 
 education:
   courses:
