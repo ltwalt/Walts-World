@@ -1,6 +1,6 @@
 ---
 title: 2023 Speaking Schedule
-subtitle: What to hear more about the book? Here is our speaking schedule for 2023.
+subtitle: Want to hear more about the book? Here is our speaking schedule for 2023.
 summary: 
 authors:
 - Walt

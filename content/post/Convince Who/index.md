@@ -1,5 +1,5 @@
 ---
-title:Schedule Convince Who
+title: Convince Who
 subtitle: Don't use the same presentation for multiple audiances.
 summary: 
 authors:
