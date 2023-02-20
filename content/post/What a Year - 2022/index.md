@@ -1,7 +1,7 @@
 ---
 title: What a Year!
 subtitle: 2022
-summary: 
+summary: What a year, indeed! In Walt's World, these were the three things that really stood out.
 authors:
 - Walt
 tags: [year in review, 2022]
