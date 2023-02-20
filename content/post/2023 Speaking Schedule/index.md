@@ -1,5 +1,5 @@
 ---
-title: 2023 Speaking 
+title: 2023 Speaking Schedule
 subtitle: What to hear more about the book? Here is our speaking schedule for 2023.
 summary: 
 authors:
@@ -26,8 +26,8 @@ image:
 projects: []
 ---
 
-|            **Date**            |                    **Event**                    |   **Comments**  |
-|:------------------------------:|:-----------------------------------------------:|:---------------:|
-| Saturday, March 18             | Research Triangle Analytics - Analytics Forward | Keynote Speaker |
-| Wednesday, March 29            | UNC-Wilmington - Business Week                  | Presenter       |
-| April 17-18 (Day and Time TBD) | INFORMS Business Analytics Conference           | Presenter       |
+|            **Date**            |  **Location**  |                                                        **Event**                                                       |   **Comments**  |
+|:------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------:|:---------------:|
+| Saturday, March 18             | Raleigh, NC    | [Research Triangle Analytics - Analytics Forward](https://www.meetup.com/research-triangle-analysts/events/291273123/) | Keynote Speaker |
+| Wednesday, March 29            | Wilmington, NC | [UNC-Wilmington - Business Week](https://csb.uncw.edu/bw/index.html)                                                   | Presenter       |
+| April 17-18 (Day and Time TBD) | Aurora, CO     | [INFORMS Business Analytics Conference](https://meetings.informs.org/wordpress/analytics2023/)                         | Presenter       |
