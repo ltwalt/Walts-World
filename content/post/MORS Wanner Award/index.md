@@ -36,4 +36,4 @@ So, what have I learned from this profound experience? I've realized the importa
 
 In the end, it's not the accolade itself but the ongoing journey, the continuous learning, and the connections we make along the way that truly enrich our lives. The MORS Wanner Award was not just a victory for me, but a symbol of a collaborative effort, a beacon guiding my ongoing journey, and a chance to reflect and grow.
 
-{{< figure src="Wanner.jpg" caption="Walt's acceptance speach at the 91st MORS Symposium" numbered="false" >}}
+<img src="Wanner.jpg">
