@@ -26,7 +26,7 @@ image:
 projects: []
 ---
 
-Winning a significant accolade in one's field is a monumental achievement. This June, in 2023, I had the privilege of receiving the distinguished (MORS Vance R. Wanner Memorial Award)[https://www.mors.org/Professional-Development/Awards/Vance-R-Wanner-Memorial-Award]. Looking at the list of prior recipients is like reading a hall of fame roster in the field of military operations research. Being informed that I was this year's recipient, I couldn't help but feel a sense of humility as I added my name to such an illustrious list.
+Winning a significant accolade in one's field is a monumental achievement. This June, in 2023, I had the privilege of receiving the distinguished [MORS Vance R. Wanner Memorial Award](https://www.mors.org/Professional-Development/Awards/Vance-R-Wanner-Memorial-Award). Looking at the list of prior recipients is like reading a hall of fame roster in the field of military operations research. Being informed that I was this year's recipient, I couldn't help but feel a sense of humility as I added my name to such an illustrious list.
 
 I then found myself pondering the personal significance of this honor. Of course, it was gratifying to know that my actions throughout my career were recognized as substantial contributions to my profession. Yet, I realized that awards like this should never become an end goal. Rather, they might best be seen as milestones or signs that one is progressing well on the path of life—a path that doesn’t end with the award but extends far into the future.
 
