@@ -26,6 +26,8 @@ image:
 projects: []
 ---
 
+As the spring season fast approaches, I am delighted to invite you to a series of speaking engagements in support of my analytics book. I will be discussing the insights posed in our book and how they can help people become better Analytics Professionals. Come join me this season and discover how Analytics Professionals can use their skills to make a real difference in the world!
+
 |            **Date**            |  **Location**  |                                                        **Event**                                                       |   **Comments**  |
 |:------------------------------:|:--------------:|:----------------------------------------------------------------------------------------------------------------------:|:---------------:|
 | Saturday, March 18             | Raleigh, NC    | [Research Triangle Analytics - Analytics Forward](https://www.meetup.com/research-triangle-analysts/events/291273123/) | Keynote Speaker |
