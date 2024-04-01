@@ -6,8 +6,8 @@ authors:
 - Walt
 tags: [INFORMS, INFORMS Analytics Conference]
 categories: []
-date: "2024-04-03T00:00:00Z"
-lastMod: "2024-04-03T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
+lastMod: "2024-04-01T00:00:00Z"
 featured: true
 draft: false
 
