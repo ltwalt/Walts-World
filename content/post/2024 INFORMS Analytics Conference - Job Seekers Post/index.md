@@ -6,8 +6,8 @@ authors:
 - Walt
 tags: [INFORMS, INFORMS Analytics Conference, jobs]
 categories: []
-date: "2024-04-01T00:00:00Z"
-lastMod: "2024-04-01T00:00:00Z"
+date: "2024-04-03T00:00:00Z"
+lastMod: "2024-04-03T00:00:00Z"
 featured: true
 draft: true
 
@@ -32,7 +32,7 @@ These tips were presented during an INFORMS sponsored panel on Wednesday, April 
 
 Here is a link to the recording if you are interested in seeing more. LINK TK
 
-### Before the Buzz
+### Before the Buzz: The Calm Before the Storm
 
 Think of the prep work as laying the groundwork for meaningful conversations:
 
