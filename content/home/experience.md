@@ -19,7 +19,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Director of Analytics Capabilities"
+  title = "Senior Director of Analytics, Director of Analytics Capabilities, and Principal Operations Research Analyst"
   company = "CANA"
   company_url = "https://www.canallc.com/"
   location = "Virtual"
@@ -30,7 +30,7 @@ date_format = "Jan 2006"
   
   * Talent acquisition
   * Development and deployment of analytical solutions
-  * Teaching courses in the applications of analytics applications and data visulization
+  * Teaching courses in the applications of analytics applications and data visualization
 
   """
 
@@ -45,7 +45,7 @@ date_format = "Jan 2006"
   
   [[experience]]
   title = "Executive Advisor"
-  company = "NC State Poole School of Managment"
+  company = "NC State Poole School of Management"
   company_url = "https://scm.ncsu.edu/"
   location = "Raleigh, NC"
   date_start = "2015-08-15"
