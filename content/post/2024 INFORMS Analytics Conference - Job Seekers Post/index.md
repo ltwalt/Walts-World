@@ -6,10 +6,10 @@ authors:
 - Walt
 tags: [INFORMS, INFORMS Analytics Conference, jobs]
 categories: []
-date: "2024-04-03T00:00:00Z"
-lastMod: "2024-04-03T00:00:00Z"
+date: "2024-04-04T00:00:00Z"
+lastMod: "2024-04-04T00:00:00Z"
 featured: true
-draft: true
+draft: false
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -28,9 +28,9 @@ projects: []
 
 The INFORMS Analytics Conference isn't just about the latest analytics trends or snagging that perfect job offer. It's about connecting with people – the mentors, the colleagues, the friends-you-haven't-met-yet. If you're searching for your next adventure in analytics, here's how to make the most of this conference, one genuine interaction at a time.
 
-These tips were presented during an INFORMS sponsored panel on Wednesday, April 3, 2024. Many thanks to my fellow panelists, Tayaba Nadeem and Carol DeZwarte, for contributing to these tips.
+These tips were presented during an INFORMS sponsored panel on Wednesday, April 3, 2024. Many thanks to my fellow panelists, [Tayaba Nadeem](https://www.linkedin.com/in/tayaba-nadeem/) and [Carol DeZwarte](https://www.linkedin.com/in/caroldezwarte/), for contributing to these tips.
 
-Here is a link to the recording if you are interested in seeing more. LINK TK
+Here is a [link to the recording](https://youtu.be/LqaBaceZM90?si=SaiDquQWfGGGcND-) if you are interested in seeing more. 
 
 ### Before the Buzz: The Calm Before the Storm
 
