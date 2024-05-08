@@ -29,7 +29,7 @@ date_format = "Jan 2006"
   Responsibilities include:
   
   * Talent acquisition
-  * Development and deployment of analytical solutions
+  * Strategic development and deployment of analytical solutions
   * Teaching courses in the applications of analytics applications and data visualization
 
   """
