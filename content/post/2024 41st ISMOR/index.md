@@ -1,5 +1,5 @@
 ---
-title: "ISMOR, Pubs, and a Ship Under Siege"
+title: "ISMOR, Pubs, and a Ship"
 subtitle: An American's Military OR Adventure in the UK
 summary: 
 authors:
