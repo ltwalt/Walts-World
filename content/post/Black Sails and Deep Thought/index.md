@@ -37,6 +37,8 @@ In today's world of instant gratification, we have become increasingly intoleran
 
 The characters in "Black Sails," however, understand that the best plans are often those that are allowed to simmer and evolve over time. They are not afraid to pause, to ponder, to write down their thoughts and explore different possibilities. This is the pace at which the human mind is naturally designed to work, and it is only through this kind of deliberate, unhurried process that we can truly unlock our full potential.
 
+In one pivotal episode, the main character, Captain James Flint, admits to his partners that he has no idea how he is going to capture a Spanish gallon laden with gold. He had several days sailing to devise a plan. Who would do that at a planning meeting in today's world?
+
 ### The Illusion of Speed
 
 Of course, there are times when quick thinking is necessary, but even the most lightning-fast decisions are usually the result of countless hours of training and preparation. The illusion of speed is often just that – an illusion. In reality, the most successful people are those who have taken the time to develop their knowledge, skills, and intuition through years of dedicated practice.
