@@ -6,7 +6,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2020-03-09T00:00:00Z"
+date: "2024-08-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -22,8 +22,9 @@ publication_types: ["6"]
 publication: "*Handbook of Military and Defense Operations Research 2nd edition*"
 publication_short: ""
 
-abstract: Building optimal scheduling models is difficult. Spending months developing the perfect optimal scheduling model by defining the problem, collecting the data, refining the model, enhancing the user interface and including customer feedback and then finally deploying the model. After all this work the customer does not use the model and reverts back to legacy practices. What went wrong?
-This chapter uses an example of the development and implementation of an optimal scheduling model for the United States Navy supply ship fleet. Manually scheduling these ships produced correction of errors resulting in high-speed transits to the rendezvous location for both the supply and the customer ship. Even though the tool provided thousands of feasible solutions and reduced planning time from hours to minutes, it took over three years to implement the solution.
+abstract: "Building optimal scheduling models is difficult. Spending months developing the perfect optimal scheduling model by defining the problem, collecting the data, refining the model, enhancing the user interface and including customer feedback and then finally deploying the model. After all this work the customer does not use the model and reverts back to legacy practices. What went wrong?
+
+This chapter uses an example of the development and implementation of an optimal scheduling model for the United States Navy supply ship fleet. Manually scheduling these ships produced correction of errors resulting in high-speed transits to the rendezvous location for both the supply and the customer ship. Even though the tool provided thousands of feasible solutions and reduced planning time from hours to minutes, it took over three years to implement the solution."
 
 
 # Summary. An optional shortened abstract.
