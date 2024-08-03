@@ -1,13 +1,13 @@
 ---
 title: "Embracing Change: Insights and Reflections on Implementing Analytics in the Real World"
-subtitle: "2nd Edition of Handbook of Military and Defense Operations Research Chapter 19 - Why Won't You Use My Model?"
+subtitle: "2nd Edition of Handbook of Military and Defense Operations Research Chapter 19 - Why Won't They Use Our Model?"
 summary: 
 authors:
 - Walt
-tags: [book chapter]
+tags: [book chapter, analytics, change]
 categories: []
-date: "2022-05-11T00:00:00Z"
-lastMod: "2022-05-11T00:00:00Z"
+date: "2024-08-02T00:00:00Z"
+lastMod: "2024-08-02T00:00:00Z"
 featured: true
 draft: false
 
