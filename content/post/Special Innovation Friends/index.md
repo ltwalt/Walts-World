@@ -31,7 +31,7 @@ We could be discussing anything – from the migratory patterns of some obscure 
 
 It's not that every idea is a goldmine. Some are downright silly, others impractical, and a few might even border on the absurd. But the sheer quantity is astounding. It's as if there's a hidden switch that flips when certain personalities connect, and all you get is a torrent of thoughts and possibilities.
 
-While writing our book, Lucia and I were definitely like this. Every time we met to discuss the progress of the book we came up with ten other great concepts we wanted to include in the book. It was a miracle that we ever finished. 
+While writing our book, Lucia and I were definitely like this. Every time we met to discuss the progress of the book we came up with ten other great concepts we wanted to include. It was a miracle that we ever finished. 
 
 I can't help but wonder if there's a scientific explanation for this. Is it a matter of shared interests? Complementary skill sets? A specific blend of personality traits? Or perhaps it's just a happy coincidence, a quirk of human connection that defies easy categorization.
 
