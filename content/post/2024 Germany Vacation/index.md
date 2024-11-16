@@ -43,7 +43,7 @@ Strasbourg itself was a fascinating blend of French, German, and Alsatian cultur
 
 Back in Germany, we stepped straight into a fairytale. Picture this: magnificent castles perched on hilltops, whispering tales of King Ludwig II and his royal family. It was like stepping back in time to the end of the 19th century – a true history lover's dream.
 
-![](PXL_20241017_070840628.jpg)
+![](PXL_20241017_070853432.PANO.jpg)
 
 Our final destination was Garmisch, a picturesque town nestled at the foot of the German Alps. While I was there for a conference, we arrived early to conquer some epic hiking trails and soak up those breathtaking alpine views. And trust me, the views from the highest point in Germany were nothing short of awe-inspiring.
 
@@ -57,7 +57,7 @@ But the adventure didn't stop there. We also ventured into the Partnach Gorge, a
 
 Now, let's talk about the important stuff: food. Bavaria is a foodie's paradise, especially if you're a fan of sausages, pretzels, and beer (and let's be honest, who isn't?). I made it my personal mission to sample all the local delicacies, and I can confidently say my taste buds were singing with joy.
 
-![](featured.jpg)
+![](PXL_20241016_170723010.RAW-01.COVER.jpg)
 
 ## Bavaria: You Had Me at "Guten Tag!"
 
