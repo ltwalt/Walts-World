@@ -31,7 +31,7 @@ I finally took my first real trip to Germany in October, and let me tell you, it
 
 My adventure kicked off in Munich, where I wandered through the charming old town, soaking up the city's rich history on a walking tour. But hold on – history buffs aren't the only ones who'll love Munich. I even stumbled upon a park with a standing wave for surfing! Talk about unexpected.
 
-![](PXL_20241013_082146356.MP.jpg)
+<img src="PXL_20241013_082146356.MP.jpg" alt="" width="500">
 
 ## Autobahn Dreams
 
@@ -43,7 +43,7 @@ Strasbourg itself was a fascinating blend of French, German, and Alsatian cultur
 
 Back in Germany, we stepped straight into a fairytale. Picture this: magnificent castles perched on hilltops, whispering tales of King Ludwig II and his royal family. It was like stepping back in time to the end of the 19th century – a true history lover's dream.
 
-<img src="PXL_20241017_070853432.PANO.jpg" alt="" width="500">
+<img src="PXL_20241017_070853432.PANO.jpg" alt="" width="800">
 
 Our final destination was Garmisch, a picturesque town nestled at the foot of the German Alps. While I was there for a conference, we arrived early to conquer some epic hiking trails and soak up those breathtaking alpine views. And trust me, the views from the highest point in Germany were nothing short of awe-inspiring.
 
