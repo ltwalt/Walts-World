@@ -26,7 +26,7 @@ projects: []
 ---
 # Back in Action!
 
-Finally got around to writing a blog post and realized it has been a while since the last time. Since then I have been doing a ton of travel. Here is just some of the highlights.
+I finally got around to writing a blog post and realized it has been a while since the last time. Since then I have been doing a ton of travel here are just some of the highlights.
 
 ## Here, There, and Everywhere!
 
