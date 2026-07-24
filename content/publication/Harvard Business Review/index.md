@@ -22,7 +22,9 @@ publication_types: ["2"]
 publication: "*Harvard Business Review Online*"
 publication_short: "HBR"
 
-abstract: In "Use AI to Stress Test Your Supply Chain" (August 6, 2025), Robert Handfield and Walt DeGrange argue that navigating the daily volatility of shifting tariffs and trade policy requires moving beyond static, annual supply chain reviews toward a continuous framework of dynamic stress testing. By combining expert market intelligence with AI impact engines, organizations can rapidly identify vulnerabilities, project cost implications, and protect revenue streams before disruptions hit. The authors outline a four-step framework that begins with mapping value chains across tier 1 through tier 3 suppliers to link component origins directly to general ledger revenues, followed by the continuous collection of market intelligence. Teams then construct potential regulatory and trade scenarios to feed into AI models that simulate financial impact and prioritize high-risk areas. Finally, companies execute targeted mitigation plans—such as adjusting sourcing locations, developing domestic alternatives, or utilizing Foreign Trade Zones—giving business leaders an agile capability to preserve profit margins and maintain operational resilience in an unpredictable trade environment.
+abstract: In this article, Robert Handfield and Walt DeGrange argue that navigating the daily volatility of shifting tariffs and trade policy requires moving beyond static, annual supply chain reviews toward a continuous framework of dynamic stress testing. By combining expert market intelligence with AI impact engines, organizations can rapidly identify vulnerabilities, project cost implications, and protect revenue streams before disruptions hit. The authors outline a four-step framework that begins with mapping value chains across tier 1 through tier 3 suppliers to link component origins directly to general ledger revenues, followed by the continuous collection of market intelligence. Teams then construct potential regulatory and trade scenarios to feed into AI models that simulate financial impact and prioritize high-risk areas. Finally, companies execute targeted mitigation plans—such as adjusting sourcing locations, developing domestic alternatives, or utilizing Foreign Trade Zones—giving business leaders an agile capability to preserve profit margins and maintain operational resilience in an unpredictable trade environment.
+
+https://hbr.org/2025/08/use-ai-to-stress-test-your-supply-chain?ab=HP-hero-featured-1
 
 
 # Summary. An optional shortened abstract.
@@ -35,9 +37,9 @@ tags:
 - supply chain
 featured: false
 
- links:
- - name: Website
- url: https://hbr.org/2025/08/use-ai-to-stress-test-your-supply-chain?ab=HP-hero-featured-1
+# links:
+#- name: Website
+# url: https://hbr.org/2025/08/use-ai-to-stress-test-your-supply-chain?ab=HP-hero-featured-1
 # url_pdf: ''
 # url_code: ''
 # url_dataset: ''
