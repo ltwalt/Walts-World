@@ -34,7 +34,7 @@ Finally got around to writing a blog post and realized it has been a while since
 * April 2025 - Arizona Diamondbacks and Saguaro National Park - Arizona  
 * June 2025 - MORS Symposium - Washington, DC  
 * June 2025 - Pittsburgh Pirates - Pittsburgh, PA  
-* August/September 2025 - Safari - Kenya and Tanzania **Africa was my 7th continent!**  
+* August/September 2025 - Safari - Kenya and Tanzania (**Africa was my 7th continent!**)
 * October 2025 - INFORMS Annual Meeting - Atlanta, GA  
 * January 2026 - St. John National Park - St. John, USVI  
 * April 2026 - Arches and Islands in the Sky National Parks - Moab, UT  
